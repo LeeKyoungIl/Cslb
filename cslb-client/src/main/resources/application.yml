@@ -1,0 +1,4 @@
+cslb-server:
+  ribbon:
+    listOfServers: 127.0.0.1:8081,127.0.0.1:8082,127.0.0.1:8083
+    ServerListRefreshInterval: 5000
